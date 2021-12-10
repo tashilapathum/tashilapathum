@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tashilapathum
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin & Flutter
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me: tashila.pathum@gmail.com
 
