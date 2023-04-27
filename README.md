@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @tashilapathum
 - 👀 I’m interested in Android Development
-- 📱 Check out the apps I've developed: https://tantalumtech.net/portfolio
+- 📱 Check out the apps I've developed: https://bit.ly/appsbytashila
 - 📫 How to reach me: tashila.pathum@gmail.com
 
 
