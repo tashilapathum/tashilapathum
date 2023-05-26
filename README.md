@@ -7,7 +7,7 @@
 - 📱 Check out the apps I've developed: https://bit.ly/appsbytashila
 - 📫 How to reach me: tashila.pathum@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=tashilapathum&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tashilapathum&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=tashilapathum&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tashilapathum&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
