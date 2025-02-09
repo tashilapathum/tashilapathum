@@ -5,7 +5,7 @@
 - 👀 I’m interested in Mobile Development
 - 📫 How to reach me: tashila.pathum@gmail.com
 
-| Development Area         | Tech Stack                                                                                                                                                                                                 | Skill Level  |
+| Development Area         | Tech Stack                                                                                                                                                                                      | Experience  |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Native Android Development | ![Kotlin](https://img.shields.io/badge/kotlin-black.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-black.svg?style=flat&logo=openjdk&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-black.svg?style=flat&logo=Gradle&logoColor=white) | 🔥 Advanced  |
 | Hybrid App Development   | ![Flutter](https://img.shields.io/badge/Flutter-black.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-black.svg?style=flat&logo=dart&logoColor=white)                                                                 | 📗 Intermediate  |
