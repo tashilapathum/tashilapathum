@@ -16,7 +16,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=tashilapathum&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&hide=contribs,prs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashilapathum&theme=tokyonight&hide_border=true&count_private=true&layout=compact&hide_progress=true" /> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashilapathum&theme=tokyonight&hide_border=true&count_private=true&layout=compact&hide_progress=true" /> -->
 </p>
 
 
