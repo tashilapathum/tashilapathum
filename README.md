@@ -13,11 +13,11 @@
 | Native iOS Development   | ![Objective-C](https://img.shields.io/badge/Objective--C-black.svg?style=flat&logo=apple&logoColor=white) | 🌱 Beginner  |
 | Services & Tools         | ![Firebase](https://img.shields.io/badge/firebase-black.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Jira](https://img.shields.io/badge/jira-black.svg?style=flat&logo=jira&logoColor=white) | 🎯 Proficient  |
 
-
+<!-- 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=tashilapathum&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&hide=contribs,prs" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashilapathum&theme=tokyonight&hide_border=true&count_private=true&layout=compact&hide_progress=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashilapathum&theme=tokyonight&hide_border=true&count_private=true&layout=compact&hide_progress=true" /> 
 </p>
-
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
